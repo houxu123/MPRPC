@@ -1,0 +1,10 @@
+
+19:43:34 -> first log message!
+19:43:34 -> /home/hsy/MRRPC/example/callee/friendservice.cc:main:42
+19:43:50 -> first log message!
+19:43:50 -> /home/hsy/MRRPC/example/callee/friendservice.cc:main:42
+20:5:56 => [error]-> first log message!
+
+20:5:56 => [info]-> /home/hsy/MRRPC/example/callee/friendservice.cc:main:42
+20:5:56 => [info]-> service_name:FriendServiceRpc
+20:5:56 => [info]-> method_name:GetFriendsList
